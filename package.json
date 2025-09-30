@@ -1,0 +1,31 @@
+{
+  "name": "esimene_veeb",
+  "version": "1.0.0",
+  "description": "Veebirpogrammeerimise tunnis tehtud express.js projekt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://karmen02@github.com/karmen02/ID_veeb.git"
+  },
+  "keywords": [
+    "õppetöö",
+    "veebiprogrammeerimine",
+    "node.js",
+    "express.js",
+    "TLÜ",
+    "Tallinna",
+    "Ülikool"
+  ],
+  "author": "Karmen Kõiv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karmen02/ID_veeb/issues"
+  },
+  "homepage": "https://github.com/karmen02/ID_veeb#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
